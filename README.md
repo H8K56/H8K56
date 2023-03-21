@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hussein-khadra-742645265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein khadra" height="30" width="40" /></a>
+<a href="https://twitter.com/THKS200" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" alt="THKS-200" height = "30" width = "40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
