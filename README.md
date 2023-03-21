@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Effcient and clever algortihms**
 
-- ⚡ Fun fact **I very curious to know about everything**
+- ⚡ Fun fact **I am very curious about everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
