@@ -1,17 +1,44 @@
-<h1 align="center">Hi 👋, I'm THKS</h1>
-<h3 align="center">Aspiring software developer</h3>
+<h1 align="center">👋 Hi there, I'm THKS!</h1>
+<h3 align="center">Exploring the Wonders of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h8k56&label=Profile%20views&color=0e75b6&style=flat" alt="h8k56" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="300"/>
+</p>
 
-- 🌱 I’m currently learning **Effcient and clever algortihms**
+- 🌱 On a journey of discovery in the realm of **Innovative Tech**
 
-- ⚡ Fun fact **I am very curious about everything**
+- ⚡ Fun fact: **I believe that learning has no limits**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hussein-khadra-742645265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein khadra" height="30" width="40" /></a>
-<a href="https://twitter.com/THKS200" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" alt="THKS-200" height = "30" width = "40"/></a>
+  <a href="https://www.linkedin.com/in/hussein-khadra-742645265/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussein Khadra" height="30" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href= target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Interests:</h3>
+<p align="left">
+  🚀 Exploring Futue Tech<br>
+  🌌 Automotive Enthusiast<br>
+  🎮 Gaming Aficionado<br>
+</p>
