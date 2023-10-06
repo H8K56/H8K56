@@ -34,6 +34,9 @@
   <a href= target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+   <img src="https://github.com/H8K56/H8K56/assets/79316679/159cb78b-c81a-4760-ac5c-8ad24ebf0e99" alt="Java" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Interests:</h3>
