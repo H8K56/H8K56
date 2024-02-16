@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm THKS!</h1>
+<h1 align="center">👋 Hi there, I'm Lord Malifex!</h1>
 <h3 align="center">Exploring the Wonders of Technology</h3>
 
 <p align="center">
