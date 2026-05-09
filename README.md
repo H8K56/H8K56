@@ -2,7 +2,7 @@
 <h3 align="center">Exploring the Wonders of Technology</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="50%"/>
 </p>
 
 ---
