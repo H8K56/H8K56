@@ -1,24 +1,79 @@
-<h1 align="center">👋 Hi there, I'm Lord Malifex!</h1>
-<h3 align="center">Exploring the Wonders of Technology</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="50%"/>
-</p>
+# 👋 Hussein Khadra
+
+### AI / ML Engineer · Computer Vision · Backend Systems
+
+[![GitHub](https://img.shields.io/badge/GitHub-H8K56-181717?style=for-the-badge&logo=github)](https://github.com/H8K56)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein_Khadra-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussein-khadra-lm/)
+[![Email](https://img.shields.io/badge/Email-khadrahussein4-EA4335?style=for-the-badge&logo=gmail)](mailto:khadrahussein4@gmail.com)
+
+<br/>
+
+Building applied AI systems — OCR pipelines, real-time computer vision,
+and backend infrastructure engineered for production.
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=H8K56&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=H8K56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+
+</div>
 
 ---
 
-```cpp
-// "The code you write may compile today,
-//  but the ideas you explore can outlive tomorrow."
-class LordMalifex {
-public:
-    std::string role = "Software Researcher";
-    std::string motto = "Learning has no limits";
-    void explore() { std::cout << "Innovating across realms of tech..."; }
-};
+## 🧠 About Me
+
+Computer Science & Engineering student at the **University of Nicosia** (graduating 2026), working at the intersection of machine learning, image processing, distributed infrastructure, and production engineering.
+
+**Recent work includes:** Cypriot dialect ASR dataset engineering, OCR preprocessing pipelines, real-time face tracking with 3D overlays, backend ETL systems for ML ingestion, and cloud-integrated metadata extraction services.
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **AI / CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> ### 📄 Document Edge Detection & OCR Pipeline
+> Production-oriented OCR preprocessing system using **OpenCV**, **scikit-image**, **PyTesseract**, perspective warping, Hough transforms, and contour detection. Designed for robustness under skew, blur, rotation, shadows, and inconsistent document geometry.
+
+> ### 🎙️ Cypriot Dialect ASR Dataset Pipeline
+> End-to-end ETL pipeline for speech recognition dataset generation — broadcast media extraction, segmentation, normalization, cleaning, metadata generation, and ASR-ready formatting. Built for applied speech model fine-tuning workflows.
+
+> ### 🎭 Real-Time 3D Face Overlay System
+> Low-latency CV application integrating facial keypoint detection, real-time frame processing, 3D mask alignment, and live rendering pipelines.
+
+---
+
+## 🎯 Current Focus
+
 ```
-🌱 On a journey of discovery in the realm of Innovative Tech
+ Applied AI Engineering        ██████████████████████░░  88%
+ Computer Vision Systems       █████████████████████░░░  84%
+ OCR & Document Understanding  ████████████████████░░░░  80%
+ Backend Architecture          ███████████████████░░░░░  76%
+ ML Infrastructure             ██████████████████░░░░░░  72%
+```
 
-⚡ Fun fact: I believe that learning has no limits
+---
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/H8K56/H8K56/assets/79316679/159cb78b-c81a-4760-ac5c-8ad24ebf0e99" alt="Java" width="40" height="40"/> </a> </p> <h3 align="left">Interests:</h3> <p align="left"> 🚀 Exploring Future Tech<br> 🌌 Automotive Enthusiast<br> 🎮 Gaming Aficionado<br> </p>
+<div align="center">
+
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=H8K56&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
