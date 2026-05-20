@@ -15,9 +15,6 @@ and backend infrastructure engineered for production.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=H8K56&theme=tokyonight&hide_border=true" width="48%" />
-
-
 </div>
 
 ---
